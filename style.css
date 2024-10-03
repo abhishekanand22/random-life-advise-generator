@@ -1,0 +1,29 @@
+body{
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    color: green;
+    font-style: italic;
+}
+
+.btn-one{
+    background-color: rgb(126, 23, 126);
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    padding: 20px;
+    margin-left: 10px;
+    text-align: center;
+    cursor: pointer;
+    
+}
+#fact{
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 2rem;
+}
